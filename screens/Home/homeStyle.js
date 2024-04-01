@@ -13,11 +13,13 @@ export const styles = StyleSheet.create({
     },
 
     upContentContainer:{
-        width: '100%',
+        
+        width:'100%',
         height: '15%',
         flexDirection: 'row',
         alignItems: 'center',
         justifyContent: 'space-between',
+       
     },
 
     leftContent:{

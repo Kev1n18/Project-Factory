@@ -4,7 +4,7 @@ import { SafeAreaView } from "react-native-safe-area-context";
 import * as Feather from "react-native-feather";
 import Slider from '@react-native-community/slider';
 import { useState } from "react";
-import { useFonts } from 'expo-font';
+import {useFonts, Poppins_500Medium, Poppins_700Bold} from '@expo-google-fonts/poppins'
 
 
 export const Home = () =>{
@@ -12,12 +12,13 @@ export const Home = () =>{
     const[activoLight, setActivoLight] = useState(false);
     const[activoLock, setActivoLock] = useState(false);
     const[activoFan, setActivoFan] = useState(false);
-    const[belanosima] = useFonts({
-
-        'Belanosima-Bold': require('../../assets/fonts/Belanosima/Belanosima-Bold.ttf'),
-        'Belanosima-Regular': require('../../assets/fonts/Belanosima/Belanosima-Regular.ttf'),
-        'Belanosima-SemiBold': require('../../assets/fonts/Belanosima/Belanosima-SemiBold.ttf')
+    const[fontsLoaded] = useFonts({
+        Poppins_500Medium,
+        Poppins_700Bold,
     })
+    if(!fontsLoaded){
+        return null
+    }
 
     const toogleSwitchLight = () =>{
 
@@ -51,24 +52,24 @@ export const Home = () =>{
                         
                         <TouchableOpacity style={styles.partnersButton}>
                             <Feather.Plus height={35} width={35} color={'#013823'}/>
-                            <Text style={{fontSize:20, color:'#013823', fontFamily: "Belanosima-Regular"}}>Shelter Partners</Text>
+                            <Text style={{fontSize:18, color:'#013823', fontFamily: "Poppins_500Medium"}}>Shelter Partners</Text>
                         </TouchableOpacity>
                     </View>
                 </View>
 
                 <View style={styles.MidContentContainer}>
                     <View style={styles.userNameWelcomeBack}>
-                        <Text style={{fontSize:33, fontFamily:"Belanosima-Bold"}}>Hi User 👋</Text>
+                        <Text style={{fontSize:33, fontFamily:"Poppins_700Bold"}}>Hi User 👋</Text>
                         <Text style={{fontSize:21, color:"#B5B3B3",}}>Welcome Back to your Shelter</Text>
                     </View>
 
                     <View style={styles.locationAndTemperature}>
-                        <Text style={{fontSize:49,fontFamily: "Belanosima-Regular" }}>Location</Text>
+                        <Text style={{fontSize:49,fontFamily: "Poppins_500Medium" }}>Location</Text>
                         <Text style={{fontSize: 188,color:'#F07426'}}> 35º</Text>
                     </View>
 
                     <View style={styles.sliderviewContainer}>
-                        <Text style={{fontSize:23, color:"#B5B3B3", fontFamily: "Belanosima-Regular"}}>Fan Speed {range}</Text>
+                        <Text style={{fontSize:23, color:"#B5B3B3", fontFamily: "Poppins_500Medium"}}>Fan Speed {range}</Text>
 
                         <View style={styles.sliderIconsAlign}>
 
