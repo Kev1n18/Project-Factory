@@ -10,7 +10,7 @@ Este repositorio serve apenas para demonstrar o codigo fonte da App desenvolvida
 
 # Splash Screen
 Tela de abertura.
-![Splash Screen](https://i.imgur.com/l8DSUsM.jpg)
+![Splash Screen](https://i.imgur.com/zKi8TKG.jpg)
 
 # Main
 Nesta tela o utilizador pode consultar o clima interior do abrigo e manipular o abrigo realizando algumas ações como:
