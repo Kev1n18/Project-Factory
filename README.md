@@ -19,4 +19,4 @@ Tela principal, nesta tela o utilizador pode consultar o clima interior do abrig
 - Trancar/Destrancar a smart lock.
 - Ir para a tela de amigos que possuem abrigos.
 - Ir para a tela de perfil.
-![Main](https://i.imgur.com/l8DSUsM.jpg)
+![Main](https://i.imgur.com/6gz132g.jpg)
