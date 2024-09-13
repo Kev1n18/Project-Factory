@@ -13,10 +13,14 @@ Tela de abertura.
 ![Splash Screen](https://i.imgur.com/l8DSUsM.jpg)
 
 # Main
-Tela principal, nesta tela o utilizador pode consultar o clima interior do abrigo e manipular o abrigo realizando algumas ações como:
+Nesta tela o utilizador pode consultar o clima interior do abrigo e manipular o abrigo realizando algumas ações como:
 - Ligar/Desligar as LEDS.
 - Ligar/Desligar a Ventoinha.
 - Trancar/Destrancar a smart lock.
 - Ir para a tela de amigos que possuem abrigos.
 - Ir para a tela de perfil.
 ![Main](https://i.imgur.com/6gz132g.jpg)
+
+# Map Screen
+Nesta tela o utilizador pode consultar a localização dos amigos que possuam uma tenda e a App.
+![Map Screen](https://i.imgur.com/Z0RQWt9.jpg)
