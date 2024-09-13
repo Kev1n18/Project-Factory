@@ -36,3 +36,7 @@ Nesta tela o utilizador pode consultar a localização dos amigos que possuam um
 
 ![settings](https://i.imgur.com/0GiXYC1.jpg)
 
+# Push notifications
+O abrigo possui sensores de movimento, incêndio e temperatura.
+Quando alguêm se aproxima da tenda ou é detetado fumo ou fogo dentro do abrigo, são enviadas push notifications para o Smart Phone.
+![Push](https://i.imgur.com/Eaoj0CN.jpg)
