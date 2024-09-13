@@ -10,6 +10,8 @@ Este repositorio serve apenas para demonstrar o codigo fonte da App desenvolvida
 
 # Splash Screen
 Tela de abertura
+
+
 ![Splash Screen](https://i.imgur.com/zKi8TKG.jpg)
 
 # Main
@@ -19,7 +21,7 @@ Nesta tela o utilizador pode consultar o clima interior do abrigo e manipular o 
 - Trancar/Destrancar a smart lock.
 - Ir para a tela de amigos que possuem abrigos.
 - Ir para a tela de perfil.
-![Main](https://i.imgur.com/6gz132g.jpg)
+![Splash Screen](https://i.imgur.com/zKi8TKG.jpg)
 
 # Map Screen
 Nesta tela o utilizador pode consultar a localização dos amigos que possuam uma tenda e a App.
