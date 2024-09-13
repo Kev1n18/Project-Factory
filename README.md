@@ -9,7 +9,7 @@ No ambito de um projeto de software em sinergia com o curso de Design, foi nos r
 Este repositorio serve apenas para demonstrar o codigo fonte da App desenvolvida em React Native juntamente com algumas imagens de screens da aplicação.
 
 # Splash Screen
-Tela de abertura.
+Tela de abertura
 ![Splash Screen](https://i.imgur.com/zKi8TKG.jpg)
 
 # Main
