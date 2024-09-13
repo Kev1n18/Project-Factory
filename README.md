@@ -31,3 +31,8 @@ Nesta tela o utilizador pode consultar o clima interior do abrigo e manipular o 
 Nesta tela o utilizador pode consultar a localização dos amigos que possuam uma tenda e a App.
 
 ![Map Screen](https://i.imgur.com/PQxsgfy.jpg)
+
+# Settings Screens
+
+![settings](https://i.imgur.com/0GiXYC1.jpg)
+
