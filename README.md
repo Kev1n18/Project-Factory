@@ -42,3 +42,6 @@ Quando alguêm se aproxima da tenda ou é detetado fumo ou fogo dentro do abrigo
 
 
 ![Push](https://i.imgur.com/Eaoj0CN.jpg)
+
+# Uma demonstração do abrigo em miniatura
+![Abrigo](https://i.imgur.com/3Sx9LTx.jpg)
