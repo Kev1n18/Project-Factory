@@ -24,7 +24,8 @@ Nesta tela o utilizador pode consultar o clima interior do abrigo e manipular o 
 - Ir para a tela de perfil.
 
 
-![Splash Screen](https://imgur.com/ZM6NeBC)
+![Splash Screen](https://i.imgur.com/oj1g7il.jpg)
+
 
 # Map Screen
 Nesta tela o utilizador pode consultar a localização dos amigos que possuam uma tenda e a App.
