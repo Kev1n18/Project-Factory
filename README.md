@@ -21,7 +21,10 @@ Nesta tela o utilizador pode consultar o clima interior do abrigo e manipular o 
 - Trancar/Destrancar a smart lock.
 - Ir para a tela de amigos que possuem abrigos.
 - Ir para a tela de perfil.
-![Splash Screen](https://i.imgur.com/zKi8TKG.jpg)
+
+
+![Splash Screen](https://i.imgur.com/22axbGa.jpg)
+
 
 # Map Screen
 Nesta tela o utilizador pode consultar a localização dos amigos que possuam uma tenda e a App.
